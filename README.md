@@ -1,5 +1,5 @@
 # text-calculator
-Basic textual calculator, able to perform operations like 'x = 3 + 5 * 2' or multiline operations like following:
+Basic textual calculator written in JAVA, able to perform operations like 'x = 3 + 5 * 2' or multiline operations like following:
 
 i = 0
 
