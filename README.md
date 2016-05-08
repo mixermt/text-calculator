@@ -13,7 +13,7 @@ i += y
 
 Notes:
 - All the operands, operations and assignment values should be space separated
-- Currently supported operations are: '+' , '*' , and value incrementation.
+- Currently supported operations are: '+' , '*' , '-' , '/' and value incrementation.
 
 
 
